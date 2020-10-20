@@ -1,1 +1,1 @@
-# DS-algo
+#All sorting Algorithms
